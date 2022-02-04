@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.0e7e4305.js",
-    "index.html": "/index.html",
-    "main.0e7e4305.js.map": "/static/js/main.0e7e4305.js.map"
+    "main.js": "/movieWebReact/static/js/main.0e7e4305.js",
+    "index.html": "/movieWebReact/index.html",
+    "main.0e7e4305.js.map": "/movieWebReact/static/js/main.0e7e4305.js.map"
   },
   "entrypoints": [
     "static/js/main.0e7e4305.js"
